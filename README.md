@@ -128,57 +128,6 @@ Python • JavaScript • Docker • Linux • AI
 </table>
 <br>
 <hr>
-## 🖥️ SYSTEM INITIALIZATION
-
-╔══════════════════════════════════════════════════════════════╗
-║                  HACKER SYSTEM INTERFACE                     ║
-╠══════════════════════════════════════════════════════════════╣
-║  USER       : root                                           ║
-║                                                              ║
-║  HOST       : linux-system                                   ║
-║                                                              ║
-║  STATUS     : ONLINE                                         ║ 
-║                                                              ║
-║  NETWORK    : CONNECTED                                      ║
-║                                                              ║ 
-║  FIREWALL   : ACTIVE                                         ║ 
-║                                                              ║ 
-║  SECURITY   : ENABLED                                        ║    
-║                                                              ║
-║  MODE       : HACKER                                         ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-> ⚠️ **Educational / Defensive Mode:**
-> This project demonstrates Linux, terminal, networking, system administration,
-> automation, and cybersecurity concepts in a safe lab environment.
-
----
-
-## ⚡ LIVE SYSTEM
-
-bash
-$ whoami
-root
-
-$ hostname
-linux-system
-
-$ uptime
-System online
-
-$ systemctl is-system-running
-running
-
-$ ping -c 1 127.0.0.1
-64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time<1ms
-
-$ echo "HACKER MODE"
-HACKER MODE ACTIVATED
-```
-
----
-
 ## 🟢 TERMINAL ANIMATION
 
 ```text
