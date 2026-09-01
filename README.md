@@ -7,6 +7,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 </div>
+<br>
 ## 🚀 Features
 
 - 🟢 Real-time terminal animation
@@ -16,10 +17,12 @@
 
 ## 🛠️ Tech Stack
 Python • JavaScript • Docker • Linux • AI
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/typing-svg.gif" alt="Typing Animation">
-   <br>
-### `root@linux:~# system_status --online`
+
+<br>
+                              `root@linux:~# system_status --online`
 <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="500">
 <br>
 ### 🔥 Hacker / Linux Mode
