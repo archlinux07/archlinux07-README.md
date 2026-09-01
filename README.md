@@ -1,7 +1,4 @@
-### 🔥 Hacker / Linux Mode
-
 > Linux • DevOps • Cloud • Networking • Open Source
-
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -128,6 +125,73 @@ Python • JavaScript • Docker • Linux • AI
 </table>
 <br>
 <hr>
+# 🟢 HACKER MODE // SYSTEM ONLINE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/typing-svg.gif" alt="Typing Animation">
+
+### `root@linux:~# system_status --online`
+
+<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="500">
+
+<br>
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge\&logo=linux\&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-00FF00?style=for-the-badge\&logo=gnometerminal\&logoColor=black)
+![System](https://img.shields.io/badge/System-ONLINE-00FF00?style=for-the-badge)
+![Security](https://img.shields.io/badge/SECURITY-ACTIVE-red?style=for-the-badge)
+
+</div>
+
+---
+
+## 🖥️ SYSTEM INITIALIZATION
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                  HACKER SYSTEM INTERFACE                     ║
+╠══════════════════════════════════════════════════════════════╣
+║  USER       : root                                           ║
+║  HOST       : linux-system                                   ║
+║  STATUS     : ONLINE                                         ║
+║  NETWORK    : CONNECTED                                      ║
+║  FIREWALL   : ACTIVE                                         ║
+║  SECURITY   : ENABLED                                        ║
+║  MODE       : HACKER                                         ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+> ⚠️ **Educational / Defensive Mode:**
+> This project demonstrates Linux, terminal, networking, system administration,
+> automation, and cybersecurity concepts in a safe lab environment.
+
+---
+
+## ⚡ LIVE SYSTEM
+
+```bash
+$ whoami
+root
+
+$ hostname
+linux-system
+
+$ uptime
+System online
+
+$ systemctl is-system-running
+running
+
+$ ping -c 1 127.0.0.1
+64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time<1ms
+
+$ echo "HACKER MODE"
+HACKER MODE ACTIVATED
+```
+
+---
+
 ## 🟢 TERMINAL ANIMATION
 
 ```text
@@ -632,6 +696,8 @@ you own or have explicit permission to test.
 
 </div>
 
+# 🐧 Linux Administration & Open Source Lab
+
 <p align="center">
   <img src="https://www.linux.org/images/logo-linux.png" alt="Linux Logo" width="180"/>
 </p>
@@ -707,7 +773,7 @@ Linux is an open-source operating system widely used for:
 
 ---
 
-## Linux
+## 🎬 Animated Linux
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"
@@ -1318,6 +1384,20 @@ systemctl
 Some commands can permanently modify files, disks, or system configuration.
 
 ---
+
+## 📜 License
+
+This project is intended for **educational and learning purposes**.
+
+You may modify and extend the examples for your own Linux,
+DevOps, networking, and system-administration practice.
+
+---
+
+## ⭐ Support
+
+If this project helps you learn Linux:
+
 <p align="center">
   ⭐ <b>Star this repository</b> ⭐
 </p>
@@ -1328,7 +1408,7 @@ Some commands can permanently modify files, disks, or system configuration.
 
 ---
 
-## 🐧Message
+## 🐧 Final Message
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif"
@@ -1336,5 +1416,10 @@ Some commands can permanently modify files, disks, or system configuration.
        width="450"/>
 </p>
 
+<h2 align="center">🐧 Linux • Open Source • Automation • DevOps 🚀</h2>
+
+<p align="center">
+  <b>Learn it. Practice it. Automate it.</b>
+</p>
 <h2 align="center">🐧 Linux • Open Source • Automation • DevOps 🚀</h2>
 
