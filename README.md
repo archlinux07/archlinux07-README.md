@@ -23,12 +23,12 @@ Python • JavaScript • Docker • Linux • AI
 
 <br>
                               `root@linux:~# system_status --online`
+
+<br>
+<br>
 <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="500">
 <br>
-### 🔥 Hacker / Linux Mode
-> Linux • DevOps • Cloud • Networking • Open Source
-> Tools and technologies that I have worked with and am interested in
-
+<br>
 <table>
    <tr>
       <td align="center" width="96">
