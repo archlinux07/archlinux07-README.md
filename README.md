@@ -1,3 +1,14 @@
+# 👨‍💻 archlinux07
+
+![Visitor Count](https://profile-counter.glitch.me/archlinux07/count.svg)
+
+### 🔥 Hacker / Linux Mode
+
+> Linux • DevOps • Cloud • Networking • Open Source
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 </div>
 ## 🚀 Features
@@ -26,9 +37,17 @@ Python • JavaScript • Docker • Linux • AI
 ![System](https://img.shields.io/badge/System-ONLINE-00FF00?style=for-the-badge)
 ![Security](https://img.shields.io/badge/SECURITY-ACTIVE-red?style=for-the-badge)
 
-</div>
-  ![Visitor Count](https://profile-counter.glitch.me/archlinux07/count.svg)
-<br>
+# 👨‍💻 archlinux07
+
+![Visitor Count](https://profile-counter.glitch.me/archlinux07/count.svg)
+
+### 🔥 Hacker / Linux Mode
+
+> Linux • DevOps • Cloud • Networking • Open Source
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ## My favorite tools and technologies ⚙️
 
 > Tools and technologies that I have worked with and am interested in
