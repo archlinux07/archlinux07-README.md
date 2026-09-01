@@ -1,3 +1,33 @@
+# 🟢 Hacker Project
+
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2R6d3J6cG5kZ3N6b3R6Z3R6b3R6b3R6b3R6b3R6b3R6/3o7qE1YN7aBOFPRw8E/giphy.gif"
+    width="700"
+    alt="Hacker animation"
+  />
+</p>
+
+<h2 align="center">⚡ Welcome to the Matrix ⚡</h2>
+
+<p align="center">
+  <b>Build • Break • Secure • Repeat</b>
+</p>
+
+---
+
+## 🚀 Features
+
+- 🟢 Real-time terminal animation
+- ⚡ Fast and lightweight
+- 🔐 Security-focused
+- 💻 Developer friendly
+
+## 🛠️ Tech Stack
+
+```text
+Python • JavaScript • Docker • Linux • AI
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/typing-svg.gif" alt="Typing Animation">
