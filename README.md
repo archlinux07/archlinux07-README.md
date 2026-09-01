@@ -127,19 +127,24 @@ Python • JavaScript • Docker • Linux • AI
  </tr>
 </table>
 <br>
-<br>
-<br>
 <hr>
 ## 🖥️ SYSTEM INITIALIZATION
+
 ╔══════════════════════════════════════════════════════════════╗
 ║                  HACKER SYSTEM INTERFACE                     ║
 ╠══════════════════════════════════════════════════════════════╣
 ║  USER       : root                                           ║
+║                                                              ║
 ║  HOST       : linux-system                                   ║
-║  STATUS     : ONLINE                                         ║
+║                                                              ║
+║  STATUS     : ONLINE                                         ║ 
+║                                                              ║
 ║  NETWORK    : CONNECTED                                      ║
-║  FIREWALL   : ACTIVE                                         ║
-║  SECURITY   : ENABLED                                        ║
+║                                                              ║ 
+║  FIREWALL   : ACTIVE                                         ║ 
+║                                                              ║ 
+║  SECURITY   : ENABLED                                        ║    
+║                                                              ║
 ║  MODE       : HACKER                                         ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
