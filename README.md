@@ -131,31 +131,6 @@ Python • JavaScript • Docker • Linux • AI
  </tr>
 </table>
 
-## Github stats 📊
-
-<details>
-  <summary>GitHub Profile Stats 💻</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Keshari's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Keshari07&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Keshari's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keshari07&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
-</details>
-
-<details>
-  <summary>Profile Views 👁️</summary>
-  <br/>
-  <!-- ![View](https://komarev.com/ghpvc/?username=Keshari07&color=yellow&style=for-the-badge&label=PROFILE+VIEWS) -->
-  <img src="https://komarev.com/ghpvc/?username=Keshari07&color=yellow&style=for-the-badge&label=PROFILE+VIEWS">
-
-</details>
-
-
-<details>
-  <summary>Wakatime ⏳</summary>
-  <br/>
-  <img src="https://wakatime.com/@Keshari07/d6dcb7a2-5e70-49f5-ae5c-39405f92ffb3.png">
-  <br/>
-</details>
 ## 🖥️ SYSTEM INITIALIZATION
 
 ╔══════════════════════════════════════════════════════════════╗
