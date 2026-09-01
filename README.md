@@ -15,21 +15,12 @@
 - 💻 Developer friendly
 
 ## 🛠️ Tech Stack
-
 Python • JavaScript • Docker • Linux • AI
-
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/typing-svg.gif" alt="Typing Animation">
-
 ### `root@linux:~# system_status --online`
 <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="500">
 <br>
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge\&logo=linux\&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-00FF00?style=for-the-badge\&logo=gnometerminal\&logoColor=black)
-![System](https://img.shields.io/badge/System-ONLINE-00FF00?style=for-the-badge)
-![Security](https://img.shields.io/badge/SECURITY-ACTIVE-red?style=for-the-badge)
-# 👨‍💻 archlinux07
 ### 🔥 Hacker / Linux Mode
 > Linux • DevOps • Cloud • Networking • Open Source
 > Tools and technologies that I have worked with and am interested in
@@ -131,9 +122,7 @@ Python • JavaScript • Docker • Linux • AI
  <tr>
  </tr>
 </table>
-
 ## 🖥️ SYSTEM INITIALIZATION
-
 ╔══════════════════════════════════════════════════════════════╗
 ║                  HACKER SYSTEM INTERFACE                     ║
 ╠══════════════════════════════════════════════════════════════╣
@@ -155,7 +144,7 @@ Python • JavaScript • Docker • Linux • AI
 
 ## ⚡ LIVE SYSTEM
 
-```bash
+bash
 $ whoami
 root
 
