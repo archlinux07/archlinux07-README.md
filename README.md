@@ -1,4 +1,571 @@
-# 🐧 Linux Administration & Open Source Lab
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/typing-svg.gif" alt="Typing Animation">
+
+### `root@linux:~# system_status --online`
+
+<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="500">
+
+<br>
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge\&logo=linux\&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-00FF00?style=for-the-badge\&logo=gnometerminal\&logoColor=black)
+![System](https://img.shields.io/badge/System-ONLINE-00FF00?style=for-the-badge)
+![Security](https://img.shields.io/badge/SECURITY-ACTIVE-red?style=for-the-badge)
+
+</div>
+
+---
+
+## 🖥️ SYSTEM INITIALIZATION
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                  HACKER SYSTEM INTERFACE                     ║
+╠══════════════════════════════════════════════════════════════╣
+║  USER       : root                                           ║
+║  HOST       : linux-system                                   ║
+║  STATUS     : ONLINE                                         ║
+║  NETWORK    : CONNECTED                                      ║
+║  FIREWALL   : ACTIVE                                         ║
+║  SECURITY   : ENABLED                                        ║
+║  MODE       : HACKER                                         ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+> ⚠️ **Educational / Defensive Mode:**
+> This project demonstrates Linux, terminal, networking, system administration,
+> automation, and cybersecurity concepts in a safe lab environment.
+
+---
+
+## ⚡ LIVE SYSTEM
+
+```bash
+$ whoami
+root
+
+$ hostname
+linux-system
+
+$ uptime
+System online
+
+$ systemctl is-system-running
+running
+
+$ ping -c 1 127.0.0.1
+64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time<1ms
+
+$ echo "HACKER MODE"
+HACKER MODE ACTIVATED
+```
+
+---
+
+## 🟢 TERMINAL ANIMATION
+
+```text
+┌──(root㉿linux)-[~]
+└─# ./system-monitor.sh
+
+[+] Booting system.................... OK
+[+] Loading kernel.................... OK
+[+] Checking memory................... OK
+[+] Checking CPU...................... OK
+[+] Checking storage................. OK
+[+] Checking network................. OK
+[+] Checking services................ OK
+[+] Security modules................. OK
+
+████████████████████████████████ 100%
+
+SYSTEM STATUS: ONLINE
+```
+
+---
+
+## 🐧 LINUX ENVIRONMENT
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="100">
+
+</div>
+
+```bash
+# Operating System Information
+uname -a
+
+# Distribution information
+cat /etc/os-release
+
+# Kernel version
+uname -r
+
+# CPU information
+lscpu
+
+# Memory information
+free -h
+
+# Disk information
+lsblk
+
+# Network interfaces
+ip addr
+```
+
+---
+
+## 🔥 SYSTEM MONITOR
+
+```text
+CPU     [██████████████████░░] 82%
+MEMORY  [██████████████░░░░░░] 68%
+DISK    [██████████░░░░░░░░░░] 49%
+NETWORK [████████████████░░░░] 76%
+```
+
+### Monitoring Commands
+
+```bash
+top
+htop
+free -h
+df -h
+du -sh *
+uptime
+vmstat
+iostat
+```
+
+---
+
+## 🌐 NETWORK STATUS
+
+```bash
+$ ip addr
+
+1: lo:
+    inet 127.0.0.1/8
+    state UP
+
+2: eth0:
+    state UP
+    network: CONNECTED
+```
+
+### Network Tools
+
+```bash
+ip addr
+ip route
+ping google.com
+traceroute google.com
+ss -tuln
+nslookup example.com
+dig example.com
+curl https://example.com
+```
+
+---
+
+## 🛡️ SECURITY STATUS
+
+```text
+╔════════════════════════════════════════════╗
+║             SECURITY MONITOR               ║
+╠════════════════════════════════════════════╣
+║ Firewall             : ENABLED             ║
+║ SSH                   : PROTECTED           ║
+║ Updates               : CHECKED             ║
+║ Authentication       : ACTIVE              ║
+║ Network              : MONITORED           ║
+║ System Integrity     : NORMAL              ║
+╚════════════════════════════════════════════╝
+```
+
+### Defensive Security Commands
+
+```bash
+sudo ufw status
+sudo systemctl status ssh
+sudo journalctl -p warning
+sudo last
+sudo ss -tulpen
+```
+
+---
+
+## 💻 HACKER TERMINAL
+
+```text
+┌──(user㉿linux)-[~/system]
+└─$ ./matrix.sh
+
+Wake up...
+The system is waiting.
+
+Initializing terminal...
+[OK]
+
+Loading modules...
+[OK]
+
+Connecting to localhost...
+[OK]
+
+Access level:
+USER
+
+Environment:
+LINUX
+
+Status:
+ONLINE
+```
+
+---
+
+## 🟩 MATRIX MODE
+
+```text
+01001000 01000001 01000011 01001011
+01000101 01010010 00100000 01001101
+01001111 01000100 01000101
+
+> SYSTEM READY
+> NETWORK READY
+> TERMINAL READY
+> ADMIN READY
+```
+
+---
+
+## ⚙️ SYSTEM COMMAND CENTER
+
+```bash
+# Process list
+ps aux
+
+# Find a process
+ps aux | grep process
+
+# Kill your own process
+kill <PID>
+
+# Current directory
+pwd
+
+# List files
+ls -lah
+
+# Change directory
+cd /var/log
+
+# Read logs
+sudo journalctl
+
+# Check services
+systemctl --type=service
+```
+
+---
+
+## 📊 STORAGE MONITOR
+
+```bash
+$ df -h
+
+Filesystem      Size  Used Avail Use%
+/dev/sda1       100G   42G   58G  42%
+```
+
+```bash
+# Show mounted filesystems
+df -h
+
+# Show block devices
+lsblk
+
+# Show directory size
+du -sh /var/log
+
+# Find large files
+find /var -type f -size +100M
+```
+
+---
+
+## 🚀 AUTOMATION MODE
+
+```bash
+#!/bin/bash
+
+echo "[+] Starting system monitor..."
+
+while true
+do
+    clear
+
+    echo "=============================="
+    echo "      SYSTEM MONITOR"
+    echo "=============================="
+
+    echo "Hostname: $(hostname)"
+    echo "Kernel  : $(uname -r)"
+    echo "Uptime  : $(uptime -p)"
+
+    echo
+    echo "Memory:"
+    free -h
+
+    echo
+    echo "Disk:"
+    df -h /
+
+    sleep 5
+done
+```
+
+---
+
+## 🔄 SYSTEM WORKFLOW
+
+```text
+             ┌───────────────┐
+             │     BOOT      │
+             └───────┬───────┘
+                     ↓
+             ┌───────────────┐
+             │ KERNEL LOAD   │
+             └───────┬───────┘
+                     ↓
+             ┌───────────────┐
+             │ NETWORK START │
+             └───────┬───────┘
+                     ↓
+             ┌───────────────┐
+             │ SERVICES      │
+             └───────┬───────┘
+                     ↓
+             ┌───────────────┐
+             │ SYSTEM ONLINE │
+             └───────────────┘
+```
+
+---
+
+## 🧰 TOOLS
+
+```text
+Linux
+Bash
+Git
+GitHub
+SSH
+Docker
+Nginx
+Apache
+AWS
+Python
+C
+C++
+PostgreSQL
+```
+
+---
+
+## 📦 GIT COMMAND CENTER
+
+```bash
+git init
+git status
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin <repository-url>
+git push -u origin main
+```
+
+---
+
+## 🔐 SSH TERMINAL
+
+```bash
+# Connect to a Linux server
+ssh user@server-ip
+
+# Generate an SSH key
+ssh-keygen -t ed25519
+
+# Check SSH service
+sudo systemctl status ssh
+
+# Restart SSH service
+sudo systemctl restart ssh
+```
+
+---
+
+## 🌍 WEB SERVER
+
+```bash
+# Check Nginx
+sudo systemctl status nginx
+
+# Start Nginx
+sudo systemctl start nginx
+
+# Enable Nginx at boot
+sudo systemctl enable nginx
+
+# Test configuration
+sudo nginx -t
+```
+
+---
+
+## 🐳 CONTAINER MODE
+
+```bash
+docker --version
+docker ps
+docker images
+docker pull ubuntu
+docker run -it ubuntu
+```
+
+---
+
+## ☁️ CLOUD MODE
+
+```text
+             CLOUD SYSTEM
+                  │
+       ┌──────────┼──────────┐
+       ↓          ↓          ↓
+      AWS       Azure       GCP
+       │          │          │
+       ↓          ↓          ↓
+    Compute    Virtual      Cloud
+    Storage    Machines    Services
+```
+
+---
+
+## 🧠 LEARNING OBJECTIVES
+
+* Linux system administration
+* Bash scripting
+* Networking fundamentals
+* Git and GitHub
+* Web server management
+* Cloud fundamentals
+* Container technology
+* System monitoring
+* Defensive cybersecurity
+* Automation
+
+---
+
+## 📡 SYSTEM LOG
+
+```text
+[15:00:01] Kernel initialized
+[15:00:02] Network interface detected
+[15:00:03] DNS resolver started
+[15:00:04] SSH service loaded
+[15:00:05] Web server loaded
+[15:00:06] Firewall enabled
+[15:00:07] Monitoring started
+[15:00:08] SYSTEM ONLINE
+```
+
+---
+
+## 🎯 PROJECT GOALS
+
+```text
+[✓] Linux Environment
+[✓] Terminal Interface
+[✓] System Monitoring
+[✓] Network Monitoring
+[✓] Automation
+[✓] Git Integration
+[✓] Server Management
+[✓] Security Awareness
+[✓] Cloud Learning
+[✓] DevOps Practice
+```
+
+---
+
+## 🟢 CURRENT STATUS
+
+```text
+╔══════════════════════════════════════════╗
+║             SYSTEM STATUS                ║
+╠══════════════════════════════════════════╣
+║                                          ║
+║       ██████╗ ███╗   ██╗                 ║
+║      ██╔═══██╗████╗  ██║                 ║
+║      ██║   ██║██╔██╗ ██║                 ║
+║      ██║   ██║██║╚██╗██║                 ║
+║      ╚██████╔╝██║ ╚████║                 ║
+║       ╚═════╝ ╚═╝  ╚═══╝                 ║
+║                                          ║
+║       HACKER MODE: ACTIVE                ║
+║       SYSTEM: ONLINE                     ║
+║       NETWORK: CONNECTED                ║
+║       SECURITY: ENABLED                 ║
+║                                          ║
+╚══════════════════════════════════════════╝
+```
+
+---
+
+## 👨‍💻 AUTHOR
+
+<div align="center">
+
+### `root@linux:~# echo "Keep Learning"`
+
+**LINUX • SYSTEM • NETWORK • CLOUD • DEVOPS**
+
+```text
+Code → Learn → Test → Automate → Monitor
+```
+
+### ⭐ Star this repository if you found it useful!
+
+</div>
+
+---
+
+## ⚠️ DISCLAIMER
+
+This repository is intended for **education, Linux administration,
+system monitoring, networking practice, automation, and defensive
+cybersecurity learning**.
+
+Only use security-related techniques on systems and networks that
+you own or have explicit permission to test.
+
+---
+
+<div align="center">
+
+```text
+████████████████████████████████████████
+        SYSTEM CONNECTION ACTIVE
+████████████████████████████████████████
+```
+
+**`[ SYSTEM ONLINE ] [ TERMINAL READY ] [ END ]`**
+
+</div>
 
 <p align="center">
   <img src="https://www.linux.org/images/logo-linux.png" alt="Linux Logo" width="180"/>
@@ -75,7 +642,7 @@ Linux is an open-source operating system widely used for:
 
 ---
 
-## 🎬 Animated Linux
+## Linux
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"
@@ -686,20 +1253,6 @@ systemctl
 Some commands can permanently modify files, disks, or system configuration.
 
 ---
-
-## 📜 License
-
-This project is intended for **educational and learning purposes**.
-
-You may modify and extend the examples for your own Linux,
-DevOps, networking, and system-administration practice.
-
----
-
-## ⭐ Support
-
-If this project helps you learn Linux:
-
 <p align="center">
   ⭐ <b>Star this repository</b> ⭐
 </p>
@@ -710,7 +1263,7 @@ If this project helps you learn Linux:
 
 ---
 
-## 🐧 Final Message
+## 🐧Message
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif"
@@ -720,6 +1273,3 @@ If this project helps you learn Linux:
 
 <h2 align="center">🐧 Linux • Open Source • Automation • DevOps 🚀</h2>
 
-<p align="center">
-  <b>Learn it. Practice it. Automate it.</b>
-</p>
