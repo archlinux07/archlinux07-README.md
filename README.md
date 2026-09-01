@@ -1,20 +1,49 @@
-# 🟢 Hacker Project
-
-<p align="center">
-  <img
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2R6d3J6cG5kZ3N6b3R6Z3R6b3R6b3R6b3R6b3R6b3R6/3o7qE1YN7aBOFPRw8E/giphy.gif"
-    width="700"
-    alt="Hacker animation"
-  />
-</p>
-
+<div align="center">
+  <svg width="600" height="200" viewBox="0 0 600 200" fill="none" xmlns="http://w3.org">
+    <style>
+      .matrix-text { font-family: 'Courier New', monospace; font-size: 14px; font-weight: bold; fill: #00FF33; }
+      @keyframes fall {
+        0% { transform: translateY(-100px); opacity: 0; }
+        10% { opacity: 1; }
+        90% { opacity: 1; }
+        100% { transform: translateY(200px); opacity: 0; }
+      }
+      .c1 { animation: fall 3s linear infinite; }
+      .c2 { animation: fall 4s linear infinite; animation-delay: 0.5s; }
+      .c3 { animation: fall 2.5s linear infinite; animation-delay: 1.2s; }
+      .c4 { animation: fall 3.5s linear infinite; animation-delay: 0.8s; }
+    </style>
+    <rect width="100%" height="100%" fill="#0D0D0D"/>
+    
+  Code Streams 
+    <g transform="translate(40, 0)" class="c1">
+      <text x="0" y="20" class="matrix-text">1</text><text x="0" y="40" class="matrix-text">0</text>
+      <text x="0" y="60" class="matrix-text">X</text><text x="0" y="80" class="matrix-text">A</text>
+    </g>
+    <g transform="translate(140, 0)" class="c3">
+      <text x="0" y="20" class="matrix-text">A</text><text x="0" y="40" class="matrix-text">7</text>
+      <text x="0" y="60" class="matrix-text">0</text><text x="0" y="80" class="matrix-text">1</text>
+    </g>
+    <g transform="translate(280, 0)" class="c2">
+      <text x="0" y="20" class="matrix-text">Ø</text><text x="0" y="40" class="matrix-text">1</text>
+      <text x="0" y="60" class="matrix-text">F</text><text x="0" y="80" class="matrix-text">μ</text>
+    </g>
+    <g transform="translate(420, 0)" class="c4">
+      <text x="0" y="20" class="matrix-text">1</text><text x="0" y="40" class="matrix-text">0</text>
+      <text x="0" y="60" class="matrix-text">1</text><text x="0" y="80" class="matrix-text">ß</text>
+    </g>
+    <g transform="translate(520, 0)" class="c1">
+      <text x="0" y="20" class="matrix-text">Z</text><text x="0" y="40" class="matrix-text">9</text>
+      <text x="0" y="60" class="matrix-text">X</text><text x="0" y="80" class="matrix-text">1</text>
+    </g>
+  </svg>
+</div>
 <h2 align="center">⚡ Welcome to the Matrix ⚡</h2>
 
 <p align="center">
   <b>Build • Break • Secure • Repeat</b>
 </p>
 
----
 
 ## 🚀 Features
 
@@ -25,7 +54,6 @@
 
 ## 🛠️ Tech Stack
 
-```text
 Python • JavaScript • Docker • Linux • AI
 
 <div align="center">
@@ -49,7 +77,6 @@ Python • JavaScript • Docker • Linux • AI
 
 ## 🖥️ SYSTEM INITIALIZATION
 
-```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                  HACKER SYSTEM INTERFACE                     ║
 ╠══════════════════════════════════════════════════════════════╣
