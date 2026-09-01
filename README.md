@@ -22,7 +22,7 @@ Python • JavaScript • Docker • Linux • AI
 <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/typing-svg.gif" alt="Typing Animation">
 
 <br>
-                              `root@linux:~# system_status --online`
+                              <---------- root@linux:~# system_status --online ---------------->
 
 <br>
 <br>
@@ -126,6 +126,10 @@ Python • JavaScript • Docker • Linux • AI
  <tr>
  </tr>
 </table>
+<br>
+<br>
+<br>
+<hr>
 ## 🖥️ SYSTEM INITIALIZATION
 ╔══════════════════════════════════════════════════════════════╗
 ║                  HACKER SYSTEM INTERFACE                     ║
