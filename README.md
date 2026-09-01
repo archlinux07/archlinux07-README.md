@@ -1,70 +1,18 @@
-<p align="center">
-  <svg width="800" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .bg { fill: #0d1117; stroke: #30363d; stroke-width: 2px; rx: 10px; }
-      .header { fill: #161b22; rx: 10px 10px 0 0; }
-      .title { fill: #8b949e; font-family: monospace; font-size: 13px; }
-      .text { font-family: 'Fira Code', monospace; font-size: 14px; fill: #58a6ff; }
-      .hacker-green { fill: #2ea043; }
-      .glitch { animation: glitchAnim 1.5s infinite alternate; }
-      .cursor { animation: blink 0.8s infinite; fill: #58a6ff; }
-      .matrix-rain { font-family: monospace; font-size: 10px; fill: rgba(46, 160, 67, 0.35); }
-      
-      @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
-      @keyframes scanline {
-        0% { transform: translateY(0px); }
-        100% { transform: translateY(220px); }
-      }
-      @keyframes glitchAnim {
-        0% { transform: translate(0); }
-        20% { transform: translate(-2px, 2px); }
-        40% { transform: translate(-2px, -2px); }
-        60% { transform: translate(2px, 2px); }
-        80% { transform: translate(2px, -2px); }
-        100% { transform: translate(0); }
-      }
-    </style>
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+<img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/typing-svg.gif" alt="Typing Animation">
 
-    <!-- Card Background -->
-    <rect width="800" height="220" class="bg" />
-    <rect width="800" height="35" class="header" />
-    <circle cx="20" cy="18" r="6" fill="#ff5f56" />
-    <circle cx="40" cy="18" r="6" fill="#ffbd2e" />
-    <circle cx="60" cy="18" r="6" fill="#27c93f" />
-    <text x="80" y="22" class="title">root@system:~# glitch_override.sh</text>
+### `root@linux:~# system_status --online`
 
-    <!-- Matrix Code Background Effect -->
-    <g class="matrix-rain">
-      <text x="50" y="70">10101011 01100001 01100011</text>
-      <text x="350" y="110">01101011 01100101 01110010</text>
-      <text x="600" y="80">01000001 01001001 01011000</text>
-      <text x="180" y="170">11010010 10110101 00101011</text>
-      <text x="500" y="190">01010100 01010011 01011001</text>
-    </g>
+<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="500">
 
-    <!-- Animated Terminal Text -->
-    <text x="30" y="80" class="text hacker-green">SYSTEM ACCESS: GRANTED</text>
-    <text x="30" y="115" class="text glitch">[!] INITIALIZING PROTOCOL: HACKER_MODE_V2</text>
-    <text x="30" y="150" class="text">&gt; Executing payload... <tspan class="cursor">█</tspan></text>
-    <text x="30" y="185" class="text hacker-green">&gt; STATUS: 100% OVERRIDDEN</text>
+<br>
 
-    <!-- CRT Overlay Line -->
-    <line x1="0" y1="0" x2="800" y2="0" stroke="rgba(88, 166, 255, 0.2)" stroke-width="3">
-      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 220" dur="3s" repeatCount="indefinite"/>
-    </line>
-  </svg>
-</p>
-![Hacker Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=200&section=header&text=HACKER%20MODE%20ACTIVATED&fontSize=40&fontColor=ffffff&animation=twinkle)
-<p align="center">
-  <img src="./assets/hacker_graphics.gif" alt="Hacker Matrix Loop" width="100%" style="border-radius: 8px; border: 1px solid #00ff00;">
-</p>
-<h2 align="center">⚡ Welcome to the Matrix ⚡</h2>
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge\&logo=linux\&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-00FF00?style=for-the-badge\&logo=gnometerminal\&logoColor=black)
+![System](https://img.shields.io/badge/System-ONLINE-00FF00?style=for-the-badge)
+![Security](https://img.shields.io/badge/SECURITY-ACTIVE-red?style=for-the-badge)
 
-<p align="center">
-  <b>Build • Break • Secure • Repeat</b>
-</p>
-
-
+</div>
 ## 🚀 Features
 
 - 🟢 Real-time terminal animation
@@ -92,9 +40,135 @@ Python • JavaScript • Docker • Linux • AI
 ![Security](https://img.shields.io/badge/SECURITY-ACTIVE-red?style=for-the-badge)
 
 </div>
+  ![Visitor Count](https://profile-counter.glitch.me/Keshari07/count.svg)
+<br>
+## My favorite tools and technologies ⚙️
 
----
+> Tools and technologies that I have worked with and am interested in
 
+<table>
+   <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td> 
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+      <br>bash
+    </td>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=kali" width="48" height="48" alt="kali" />
+      <br>Kali
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="ubuntu" />
+      <br>Ubuntu
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=arch" width="48" height="48" alt="arch" />
+      <br>Arch
+    </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=debian" width="48" height="48" alt="Debian" />
+      <br>Debian
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=perl" width="48" height="48" alt="perl" />
+      <br>Perl
+    </td>
+      
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <br>Github
+    </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>Docker
+    </td>
+     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50" height="50" />
+      <br>Kubernetes
+    </td>
+      </td>
+     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+      <br>AWS
+    </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
+      <br>Jenkins
+    </td> 
+         <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
+      <br>Nginx
+
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
+      <br>GitLab
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
+      <br>PostgreSQL
+    </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
+      <br>Graphql
+    </td>
+  </tr>
+ <tr>
+ </tr>
+</table>
+
+## Github stats 📊
+
+<details>
+  <summary>GitHub Profile Stats 💻</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Keshari's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Keshari07&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Keshari's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keshari07&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+</details>
+
+<details>
+  <summary>Profile Views 👁️</summary>
+  <br/>
+  <!-- ![View](https://komarev.com/ghpvc/?username=Keshari07&color=yellow&style=for-the-badge&label=PROFILE+VIEWS) -->
+  <img src="https://komarev.com/ghpvc/?username=Keshari07&color=yellow&style=for-the-badge&label=PROFILE+VIEWS">
+
+</details>
+
+
+<details>
+  <summary>Wakatime ⏳</summary>
+  <br/>
+  <img src="https://wakatime.com/@Keshari07/d6dcb7a2-5e70-49f5-ae5c-39405f92ffb3.png">
+  <br/>
+</details>
 ## 🖥️ SYSTEM INITIALIZATION
 
 ╔══════════════════════════════════════════════════════════════╗
