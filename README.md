@@ -1,43 +1,63 @@
-<div align="center">
-  <svg width="600" height="200" viewBox="0 0 600 200" fill="none" xmlns="http://w3.org">
+<p align="center">
+  <svg width="800" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg">
     <style>
-      .matrix-text { font-family: 'Courier New', monospace; font-size: 14px; font-weight: bold; fill: #00FF33; }
-      @keyframes fall {
-        0% { transform: translateY(-100px); opacity: 0; }
-        10% { opacity: 1; }
-        90% { opacity: 1; }
-        100% { transform: translateY(200px); opacity: 0; }
+      .bg { fill: #0d1117; stroke: #30363d; stroke-width: 2px; rx: 10px; }
+      .header { fill: #161b22; rx: 10px 10px 0 0; }
+      .title { fill: #8b949e; font-family: monospace; font-size: 13px; }
+      .text { font-family: 'Fira Code', monospace; font-size: 14px; fill: #58a6ff; }
+      .hacker-green { fill: #2ea043; }
+      .glitch { animation: glitchAnim 1.5s infinite alternate; }
+      .cursor { animation: blink 0.8s infinite; fill: #58a6ff; }
+      .matrix-rain { font-family: monospace; font-size: 10px; fill: rgba(46, 160, 67, 0.35); }
+      
+      @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+      @keyframes scanline {
+        0% { transform: translateY(0px); }
+        100% { transform: translateY(220px); }
       }
-      .c1 { animation: fall 3s linear infinite; }
-      .c2 { animation: fall 4s linear infinite; animation-delay: 0.5s; }
-      .c3 { animation: fall 2.5s linear infinite; animation-delay: 1.2s; }
-      .c4 { animation: fall 3.5s linear infinite; animation-delay: 0.8s; }
+      @keyframes glitchAnim {
+        0% { transform: translate(0); }
+        20% { transform: translate(-2px, 2px); }
+        40% { transform: translate(-2px, -2px); }
+        60% { transform: translate(2px, 2px); }
+        80% { transform: translate(2px, -2px); }
+        100% { transform: translate(0); }
+      }
     </style>
-    <rect width="100%" height="100%" fill="#0D0D0D"/>
-    
-  Code Streams 
-    <g transform="translate(40, 0)" class="c1">
-      <text x="0" y="20" class="matrix-text">1</text><text x="0" y="40" class="matrix-text">0</text>
-      <text x="0" y="60" class="matrix-text">X</text><text x="0" y="80" class="matrix-text">A</text>
+
+    <!-- Card Background -->
+    <rect width="800" height="220" class="bg" />
+    <rect width="800" height="35" class="header" />
+    <circle cx="20" cy="18" r="6" fill="#ff5f56" />
+    <circle cx="40" cy="18" r="6" fill="#ffbd2e" />
+    <circle cx="60" cy="18" r="6" fill="#27c93f" />
+    <text x="80" y="22" class="title">root@system:~# glitch_override.sh</text>
+
+    <!-- Matrix Code Background Effect -->
+    <g class="matrix-rain">
+      <text x="50" y="70">10101011 01100001 01100011</text>
+      <text x="350" y="110">01101011 01100101 01110010</text>
+      <text x="600" y="80">01000001 01001001 01011000</text>
+      <text x="180" y="170">11010010 10110101 00101011</text>
+      <text x="500" y="190">01010100 01010011 01011001</text>
     </g>
-    <g transform="translate(140, 0)" class="c3">
-      <text x="0" y="20" class="matrix-text">A</text><text x="0" y="40" class="matrix-text">7</text>
-      <text x="0" y="60" class="matrix-text">0</text><text x="0" y="80" class="matrix-text">1</text>
-    </g>
-    <g transform="translate(280, 0)" class="c2">
-      <text x="0" y="20" class="matrix-text">Ø</text><text x="0" y="40" class="matrix-text">1</text>
-      <text x="0" y="60" class="matrix-text">F</text><text x="0" y="80" class="matrix-text">μ</text>
-    </g>
-    <g transform="translate(420, 0)" class="c4">
-      <text x="0" y="20" class="matrix-text">1</text><text x="0" y="40" class="matrix-text">0</text>
-      <text x="0" y="60" class="matrix-text">1</text><text x="0" y="80" class="matrix-text">ß</text>
-    </g>
-    <g transform="translate(520, 0)" class="c1">
-      <text x="0" y="20" class="matrix-text">Z</text><text x="0" y="40" class="matrix-text">9</text>
-      <text x="0" y="60" class="matrix-text">X</text><text x="0" y="80" class="matrix-text">1</text>
-    </g>
+
+    <!-- Animated Terminal Text -->
+    <text x="30" y="80" class="text hacker-green">SYSTEM ACCESS: GRANTED</text>
+    <text x="30" y="115" class="text glitch">[!] INITIALIZING PROTOCOL: HACKER_MODE_V2</text>
+    <text x="30" y="150" class="text">&gt; Executing payload... <tspan class="cursor">█</tspan></text>
+    <text x="30" y="185" class="text hacker-green">&gt; STATUS: 100% OVERRIDDEN</text>
+
+    <!-- CRT Overlay Line -->
+    <line x1="0" y1="0" x2="800" y2="0" stroke="rgba(88, 166, 255, 0.2)" stroke-width="3">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 220" dur="3s" repeatCount="indefinite"/>
+    </line>
   </svg>
-</div>
+</p>
+![Hacker Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=200&section=header&text=HACKER%20MODE%20ACTIVATED&fontSize=40&fontColor=ffffff&animation=twinkle)
+<p align="center">
+  <img src="./assets/hacker_graphics.gif" alt="Hacker Matrix Loop" width="100%" style="border-radius: 8px; border: 1px solid #00ff00;">
+</p>
 <h2 align="center">⚡ Welcome to the Matrix ⚡</h2>
 
 <p align="center">
